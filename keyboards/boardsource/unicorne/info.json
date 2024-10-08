@@ -1,0 +1,11 @@
+"features": {
+  "audio": true,
+  "bootmagic": true,
+  "encoder": true,
+  "extrakey": true,
+  "mousekey": true,
+  "nkro": true,
+  "oled": true,
+  "pointing_device": false,
+  "rgb_matrix": true
+},
